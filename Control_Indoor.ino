@@ -61,7 +61,7 @@ int bomba = 6;          // Para activar la bomba de agua en el pin digital 6
 int calefaccion =  5;   // Para activar la calefaccion con el pin digita 5
 int vaporizacion = 4;   // Para activar el evaporizador con el pin digital 4
 int extraccion  =  3;   // Para activar la extraccion del aire con el pin digital 3
-int luz  =  2;          // Para activar la extraccion del aire con el pin digital 2
+int luz  =  2;          // Para activar la luz con el pin digital 2
 int dias;               // Para contar los dias transcurridos
 int conta;              //¨Para verificar el siguinte dia
 
